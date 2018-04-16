@@ -1,0 +1,94 @@
+{
+ "productos": [
+   {
+     "id": 1,
+     "nombre": "Camiseta de deporte Nike",
+     "descripcion": "Camiseta diseñada 100% para el deporte, transpirable",
+     "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIvbfXmTolW74PTJrdMeO7jR9A4Zd1FXnDIkBl9GJOlnW_-D8",
+     "precio": 10,
+     "stock": 20,
+     "categoria": "Deporte"
+   },
+   {
+     "id": 2,
+     "nombre": "Camiseta de deporte Adidas",
+     "descripcion": "Camiseta diseñada 100% para el deporte, transpirable",
+     "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc5G_bqOlgtZmhTnB-1MajL7efjSatx-JZ61uWKb3YOTDGdnfxGQ",
+     "precio": 8,
+     "stock": 15,
+     "categoria": "Deporte"
+   },
+   {
+     "id": 3,
+     "nombre": "Camiseta Epi y Blas de Puma",
+     "descripcion": "Camiseta diseñada 100% de algodon, transpirable",
+     "foto": "http://www.creamofthecountry.com/images/ZH_runner_Puma_XBY_39/136356209.jpg",
+     "precio": 12,
+     "stock": 8,
+     "categoria": "Casual"
+   },
+   {
+     "id": 4,
+     "nombre": "Camiseta Vegeta",
+     "descripcion": "Camiseta diseñada 100% de algodon, transpirable",
+     "foto": "https://ae01.alicdn.com/kf/HTB1IBgySpXXXXcxXpXXq6xXFXXXQ/Majin-vegeta-Cosplay-masculino-Camisetas-casual-parejas-Tops-slim-fit-camiseta-Dragon-Ball-Z-traje-Camisetas.jpg_640x640.jpg",
+     "precio": 15,
+     "stock": 7,
+     "categoria": "Casual"
+   },
+   {
+     "id": 5,
+     "nombre": "Pantalon de deporte",
+     "descripcion": "Pantalon diseñado 100% de algodon, transpirable",
+     "foto": "https://www.decathlon.es/media/832/8325702/big_2264889d369c4311a2e8e993894f1242.jpg",
+     "precio": 6,
+     "stock": 7,
+     "categoria": "Deporte"
+   },
+   {
+     "id": 6,
+     "nombre": "Pantalon de vestir",
+     "descripcion": "Pantalon diseñado 100% de algodon, transpirable",
+     "foto": "http://www.lsgra.org/image/cache/data/category_9/selected-shhyard-slim-pantalon-casual-hombre-azul-slim-fit-jherohz-3965-625x638_0.jpg",
+     "precio": 22,
+     "stock": 7,
+     "categoria": "Casual"
+   },
+   {
+     "id": 7,
+     "nombre": "Zapatilla de deporte de Nike",
+     "descripcion": "Zapatillas diseñadas para correr",
+     "foto": "https://www.decathlon.es/media/835/8350817/big_c823cb4ab0c24eac85df24dfe4182a8c.jpg",
+     "precio": 50,
+     "stock": 7,
+     "categoria": "Deporte"
+   },
+   {
+     "id": 8,
+     "nombre": "Zapatilla de deporte de Puma",
+     "descripcion": "Zapatillas diseñadas para correr",
+     "foto": "https://priveesport.com/5936-large_default/adidas-cf-race-zapatillas-deportivas-hombre.jpg",
+     "precio": 35,
+     "stock": 7,
+     "categoria": "Deporte"
+   },
+   {
+     "id": 9,
+     "nombre": "Zapatilla de Vestir",
+     "descripcion": "Zapatillas diseñadas para correr",
+     "foto": "https://www.ayestaran.net/imagenes-zapatos/zapatos/ecco/zapatos-casual/zapatos-casual-ecco-634014_1000x667_144585_1.jpg",
+     "precio": 70,
+     "stock": 7,
+     "categoria": "Casual"
+   },
+   {
+     "id": 10,
+     "nombre": "Zapatilla Casual",
+     "descripcion": "Zapatillas diseñadas para correr",
+     "foto": "http://images.esellerpro.com/2196/I/408/74/039.JPG",
+     "precio": 20,
+     "stock": 7,
+     "categoria": "Casual"
+   }
+ ]
+}
